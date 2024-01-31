@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>E:\3LFCC\TestBoardV113\TestBoardV113.kicad_sch</source>
-    <date>25/01/2024 16:10:05</date>
+    <source>E:\GitHub\caravel-dev-V5-M.2-3lfcc-shield\TestBoardV113\TestBoardV113.kicad_sch</source>
+    <date>31/01/2024 17:26:44</date>
     <tool>Eeschema 7.0.10</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -211,6 +211,94 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fb394625-dd3e-417d-af0d-113785fbbb55</tstamps>
     </comp>
+    <comp ref="FC1_A+1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9aeeb894-d052-4a69-bb26-b5f588011891</tstamps>
+    </comp>
+    <comp ref="FC1_A-1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c83c3c90-ea71-4ca7-a3a0-960b6130a926</tstamps>
+    </comp>
+    <comp ref="FC1_D+1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66b54041-56cb-41e3-95b4-25fbe239f4a4</tstamps>
+    </comp>
+    <comp ref="FC1_D-1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>686a1ce3-cd2e-401a-9e25-f038a615cf94</tstamps>
+    </comp>
+    <comp ref="FC2_A+1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa00fa16-b92b-4dfe-b00d-10f23dfa0b95</tstamps>
+    </comp>
+    <comp ref="FC2_A-1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb8ae814-df30-43f5-ab3f-cfc1a0d1e8dc</tstamps>
+    </comp>
+    <comp ref="FC2_D+1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2b8b5d4-e11c-4861-a14d-1313daad8f58</tstamps>
+    </comp>
+    <comp ref="FC2_D-1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4be3ed3-7cd4-4896-8750-832811600a3f</tstamps>
+    </comp>
     <comp ref="GND_TP1">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
@@ -233,6 +321,50 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c238c887-5632-45ea-98a0-9ee0beb7575e</tstamps>
     </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e36154ef-2db9-4424-883e-090672b9f00f</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d647be7c-5fe5-4b75-8d84-3d5a6352944b</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11e4782f-41a2-4efa-9904-88d00ce09409</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0ec6b1c-6617-4c59-a654-513c2d6bec66</tstamps>
+    </comp>
     <comp ref="J1">
       <value>Conn_01x02_Socket</value>
       <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
@@ -246,7 +378,7 @@
     </comp>
     <comp ref="J2">
       <value>Conn_02x06_Odd_Even</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Horizontal</footprint>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical</footprint>
       <libsource lib="Connector_Generic" part="Conn_02x06_Odd_Even" description="Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
@@ -300,37 +432,37 @@
       <tstamps>d03137df-192f-4818-acb9-167971676e8f</tstamps>
     </comp>
     <comp ref="J7">
-      <value>Conn_01x02_Pin</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
-      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <value>Conn_01x03_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>7099a15f-a0cc-42b1-9602-694443e73694</tstamps>
+      <tstamps>6c3d2c87-3593-411f-b5a4-358abf744043</tstamps>
     </comp>
     <comp ref="J8">
-      <value>Conn_01x02_Pin</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
-      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <value>Conn_01x03_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>12e4cac1-25cf-4d72-918e-95eb839920fc</tstamps>
+      <tstamps>7c23d365-3765-45ff-9bee-affea214af43</tstamps>
     </comp>
     <comp ref="J9">
-      <value>Conn_01x02_Pin</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
-      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <value>Conn_01x03_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>262410ed-0a79-4bed-bbe7-f1c17e5dcfeb</tstamps>
+      <tstamps>d4808347-efa8-4efe-bd15-70a548c5f12a</tstamps>
     </comp>
     <comp ref="J10">
       <value>Conn_01x02_Pin</value>
@@ -355,6 +487,17 @@
       <tstamps>40fa266d-3897-40f3-b5aa-044e2a3b0d00</tstamps>
     </comp>
     <comp ref="J12">
+      <value>Conn_01x02_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bd4c7c6-bbe8-4967-8c7f-bf89054b75c9</tstamps>
+    </comp>
+    <comp ref="J13">
       <value>Conn_02x03_Odd_Even</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
       <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -365,7 +508,40 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7b9ecfc8-2916-4828-9c7c-804a6a21f15f</tstamps>
     </comp>
-    <comp ref="J13">
+    <comp ref="J14">
+      <value>Conn_02x03_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16e68a18-d222-4b82-830f-19faf2aab691</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>Conn_01x02_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b36b67c-f05a-4aac-b97e-e7038a7f0f09</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>Conn_02x03_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b127bc2b-5ce8-44b9-bd46-986373bc57cd</tstamps>
+    </comp>
+    <comp ref="J17">
       <value>Conn_01x01_Pin</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
@@ -376,7 +552,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ea474ca4-37f9-4bef-b071-4bd8a92784e9</tstamps>
     </comp>
-    <comp ref="J14">
+    <comp ref="J18">
       <value>Conn_01x28_Socket</value>
       <footprint>Connector_PinSocket_2.54mm:PinSocket_1x28_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x28_Socket" description="Generic connector, single row, 01x28, script generated"/>
@@ -387,7 +563,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>99e10b54-386b-487d-a57b-c3b1c6a8d378</tstamps>
     </comp>
-    <comp ref="J15">
+    <comp ref="J19">
       <value>Conn_01x01_Pin</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
@@ -398,7 +574,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8e5342ae-4cfd-4f6e-83ec-33f864a3a48b</tstamps>
     </comp>
-    <comp ref="J16">
+    <comp ref="J20">
       <value>Conn_01x01_Pin</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
@@ -409,29 +585,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3e48d14c-9c8d-4d00-9210-546b4f7afb86</tstamps>
     </comp>
-    <comp ref="J17">
-      <value>Conn_01x02_Pin</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
-      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
-      <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>e419670b-e143-4a28-8a2f-22673f77e26f</tstamps>
-    </comp>
-    <comp ref="J18">
-      <value>Conn_01x02_Socket</value>
-      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical</footprint>
-      <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
-      <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b12ba71a-15b0-488f-bb10-b1e548aa8273</tstamps>
-    </comp>
-    <comp ref="J19">
+    <comp ref="J21">
       <value>Conn_01x28_Socket</value>
       <footprint>Connector_PinSocket_2.54mm:PinSocket_1x28_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x28_Socket" description="Generic connector, single row, 01x28, script generated"/>
@@ -442,7 +596,29 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9eb96666-0761-4d2f-8317-6d393f69eb4a</tstamps>
     </comp>
-    <comp ref="J20">
+    <comp ref="J22">
+      <value>Conn_01x02_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e419670b-e143-4a28-8a2f-22673f77e26f</tstamps>
+    </comp>
+    <comp ref="J23">
+      <value>Conn_01x02_Socket</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b12ba71a-15b0-488f-bb10-b1e548aa8273</tstamps>
+    </comp>
+    <comp ref="J24">
       <value>Conn_01x01_Pin</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
@@ -453,7 +629,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fd88352e-39e2-4bf6-8eca-be872d08ea16</tstamps>
     </comp>
-    <comp ref="J21">
+    <comp ref="J25">
       <value>Conn_01x02_Pin</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
@@ -464,18 +640,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>97a3f9cf-e076-4c53-aa6b-d3f86dd933c0</tstamps>
     </comp>
-    <comp ref="J22">
-      <value>Conn_02x03_Odd_Even</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
-      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>bdf285f7-d126-4e1b-8ca0-0b7ea8efa7b5</tstamps>
-    </comp>
-    <comp ref="J23">
+    <comp ref="J26">
       <value>Conn_01x02_Pin</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
@@ -486,7 +651,18 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8b4d1796-9635-4967-83cf-fc901309c0e0</tstamps>
     </comp>
-    <comp ref="J24">
+    <comp ref="J27">
+      <value>Conn_02x03_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdf285f7-d126-4e1b-8ca0-0b7ea8efa7b5</tstamps>
+    </comp>
+    <comp ref="J28">
       <value>Conn_01x02_Socket</value>
       <footprint>Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
@@ -531,6 +707,39 @@
       <tstamps>5d9ca567-c346-4821-904a-dffb22e77cad</tstamps>
     </comp>
     <comp ref="R2">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c51ddac1-2120-4ec4-a539-df6a32d90afc</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7709583-a5d5-4cf3-be7a-14297fad8c6d</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8359176c-46c5-40e6-8ecb-477d6bbcd9cb</tstamps>
+    </comp>
+    <comp ref="R5">
       <value>256K/430K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -541,7 +750,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>02cac864-ce5d-4859-8e69-4f342a8b3da1</tstamps>
     </comp>
-    <comp ref="R3">
+    <comp ref="R6">
       <value>82K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -552,7 +761,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dc098863-ac36-4c8d-98b8-caae66c5b6d2</tstamps>
     </comp>
-    <comp ref="R4">
+    <comp ref="R7">
       <value>256K/430K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -563,7 +772,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>48af26ec-613b-4618-b384-3bb520a97f6c</tstamps>
     </comp>
-    <comp ref="R5">
+    <comp ref="R8">
       <value>82K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -574,8 +783,8 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5415be25-8e6f-4f4a-b144-654fae860c4b</tstamps>
     </comp>
-    <comp ref="R6">
-      <value>256/430K</value>
+    <comp ref="R9">
+      <value>256K/430K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -585,7 +794,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f9e811ed-9de5-4425-a86b-437901175bcf</tstamps>
     </comp>
-    <comp ref="R7">
+    <comp ref="R10">
       <value>82K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -596,41 +805,8 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6b1dcb23-3e94-4aac-bded-a790b8d3d5ca</tstamps>
     </comp>
-    <comp ref="R8">
-      <value>3K3</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>4948ed38-f124-47a1-b4bc-953bb0450db8</tstamps>
-    </comp>
-    <comp ref="R9">
-      <value>330</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>c90a4fbb-dbeb-4e30-af1e-3adbdf8909db</tstamps>
-    </comp>
-    <comp ref="R10">
-      <value>60</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>beef9b87-ef00-43de-823c-1fae1689c74f</tstamps>
-    </comp>
     <comp ref="R11">
-      <value>30</value>
+      <value>100K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -638,43 +814,98 @@
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>aea10416-bfad-47c2-a127-944ec1c8f286</tstamps>
+      <tstamps>e6a186f0-7b89-4b32-822d-d6c089c478d1</tstamps>
     </comp>
     <comp ref="R12">
-      <value>10</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <value>3</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>86269a2c-0e3e-4c2f-becf-9566238d887a</tstamps>
+      <tstamps>2e04f4ed-9ec1-4f70-8372-39cd089a2237</tstamps>
     </comp>
     <comp ref="R13">
-      <value>10</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <value>3.6</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>6ae412f8-8b96-4f62-aac5-cc3a8a7455ec</tstamps>
+      <tstamps>23e3cdf4-dd2c-4e82-b6ad-49934b2a1375</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4.5</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fec486c2-8b9e-4eaa-a3b1-8db8b07ca617</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>6</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>026c3710-3036-43a5-af6c-78b3c69a5fb7</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>9</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7b79eab-13cd-406c-9ebb-1d2a36c63ada</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>18</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d931ba2-3bf0-45e1-8062-b603b63cb1f8</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>36</value>
+      <footprint>Resistor_SMD:R_2010_5025Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31dcb7d1-1f62-475d-9f85-af113cfff632</tstamps>
     </comp>
     <comp ref="SW1">
-      <value>SW_DIP_x06</value>
-      <footprint>Button_Switch_SMD:SW_DIP_SPSTx06_Slide_KingTek_DSHP06TS_W7.62mm_P1.27mm</footprint>
-      <libsource lib="Switch" part="SW_DIP_x06" description="6x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <value>SW_DIP_x07</value>
+      <footprint>Button_Switch_THT:SW_DIP_SPSTx07_Slide_9.78x19.96mm_W7.62mm_P2.54mm</footprint>
+      <libsource lib="Switch" part="SW_DIP_x07" description="7x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="6x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <property name="ki_description" value="7x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
       <property name="ki_keywords" value="dip switch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>58c3b339-73f0-410b-b509-c2878e711adb</tstamps>
+      <tstamps>2ecf491c-154a-44b0-b922-2a8c2a30ba61</tstamps>
     </comp>
-    <comp ref="TP1">
-      <value>Vout1_NF</value>
+    <comp ref="TP_D1">
+      <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
@@ -682,10 +913,10 @@
       <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>2c9105dd-8ea8-484c-a6eb-0834a561d79c</tstamps>
+      <tstamps>6e555da1-5e9e-47e8-8c46-3551a0b7995d</tstamps>
     </comp>
-    <comp ref="TP2">
-      <value>Vout2_NF</value>
+    <comp ref="TP_D2">
+      <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
@@ -693,10 +924,10 @@
       <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>8e0f33e7-257a-4ee3-be1f-f84a9853e875</tstamps>
+      <tstamps>e6c7513a-9908-4286-9a9c-e2bf77f3c2de</tstamps>
     </comp>
-    <comp ref="TP3">
-      <value>FC1_A+</value>
+    <comp ref="TP_D3">
+      <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
@@ -704,10 +935,10 @@
       <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>9aeeb894-d052-4a69-bb26-b5f588011891</tstamps>
+      <tstamps>ca6a69a2-6cf1-45cf-b59c-6386d678c52e</tstamps>
     </comp>
-    <comp ref="TP4">
-      <value>FC1_A-</value>
+    <comp ref="TP_D4">
+      <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
@@ -715,10 +946,10 @@
       <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c83c3c90-ea71-4ca7-a3a0-960b6130a926</tstamps>
+      <tstamps>c961812b-228e-4d79-af6a-e4bd8b85df00</tstamps>
     </comp>
-    <comp ref="TP5">
-      <value>FC1_D+</value>
+    <comp ref="TP_D5">
+      <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
@@ -726,10 +957,10 @@
       <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>66b54041-56cb-41e3-95b4-25fbe239f4a4</tstamps>
+      <tstamps>cb8a54e8-4a1a-497a-9a4f-ce150a4055fe</tstamps>
     </comp>
-    <comp ref="TP6">
-      <value>FC1_D-</value>
+    <comp ref="TP_D6">
+      <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
@@ -737,10 +968,10 @@
       <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>686a1ce3-cd2e-401a-9e25-f038a615cf94</tstamps>
+      <tstamps>fa39991c-33ec-41d5-8e5b-a26cd4848aac</tstamps>
     </comp>
-    <comp ref="TP7">
-      <value>Vout_F</value>
+    <comp ref="TP_D7">
+      <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
@@ -748,10 +979,10 @@
       <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>d3120e91-54b9-47ae-a144-6dd9caadb1b1</tstamps>
+      <tstamps>9d0f2b85-3951-45c6-b675-c6445ac3799c</tstamps>
     </comp>
-    <comp ref="TP8">
-      <value>FC2_+</value>
+    <comp ref="TP_D8">
+      <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
       <property name="Sheetname" value=""/>
@@ -759,54 +990,10 @@
       <property name="ki_description" value="test point"/>
       <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>aa00fa16-b92b-4dfe-b00d-10f23dfa0b95</tstamps>
-    </comp>
-    <comp ref="TP9">
-      <value>FC2_-</value>
-      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
-      <libsource lib="Connector" part="TestPoint" description="test point"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="test point"/>
-      <property name="ki_keywords" value="test point tp"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>fb8ae814-df30-43f5-ab3f-cfc1a0d1e8dc</tstamps>
-    </comp>
-    <comp ref="TP10">
-      <value>FC2_D-</value>
-      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
-      <libsource lib="Connector" part="TestPoint" description="test point"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="test point"/>
-      <property name="ki_keywords" value="test point tp"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>f4be3ed3-7cd4-4896-8750-832811600a3f</tstamps>
-    </comp>
-    <comp ref="TP11">
-      <value>FC2_D+</value>
-      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
-      <libsource lib="Connector" part="TestPoint" description="test point"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="test point"/>
-      <property name="ki_keywords" value="test point tp"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>f2b8b5d4-e11c-4861-a14d-1313daad8f58</tstamps>
-    </comp>
-    <comp ref="TP12">
-      <value>Vout_Load</value>
-      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
-      <libsource lib="Connector" part="TestPoint" description="test point"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
-      <property name="ki_description" value="test point"/>
-      <property name="ki_keywords" value="test point tp"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>adc4ce10-5728-4ec3-a06e-012f0b02fbe5</tstamps>
+      <tstamps>16aa9d0c-f995-4b08-a268-b9e7f01b350f</tstamps>
     </comp>
     <comp ref="U1">
-      <value>~</value>
+      <value>NCP705MTADJTCG</value>
       <footprint>Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm</footprint>
       <libsource lib="NCP705MTADJTCG" part="NCP705MTADJTCG" description=""/>
       <property name="Sheetname" value=""/>
@@ -815,7 +1002,7 @@
       <tstamps>9164f67a-1b1a-40d0-a967-cfd011c18bc3</tstamps>
     </comp>
     <comp ref="U2">
-      <value>~</value>
+      <value>NCP705MTADJTCG</value>
       <footprint>Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm</footprint>
       <libsource lib="NCP705MTADJTCG" part="NCP705MTADJTCG" description=""/>
       <property name="Sheetname" value=""/>
@@ -824,7 +1011,7 @@
       <tstamps>33ef8e56-e405-4e3d-90f8-9debe74ab399</tstamps>
     </comp>
     <comp ref="U3">
-      <value>~</value>
+      <value>NCP705MTADJTCG</value>
       <footprint>Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm</footprint>
       <libsource lib="NCP705MTADJTCG" part="NCP705MTADJTCG" description=""/>
       <property name="Sheetname" value=""/>
@@ -867,6 +1054,50 @@
       <property name="ki_keywords" value="Level-Shifter CMOS-TTL-Translation"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3cbda73b-0bfd-4228-bb1d-725f29f9d0fc</tstamps>
+    </comp>
+    <comp ref="Vout1_NF1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c9105dd-8ea8-484c-a6eb-0834a561d79c</tstamps>
+    </comp>
+    <comp ref="Vout2_NF1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e0f33e7-257a-4ee3-be1f-f84a9853e875</tstamps>
+    </comp>
+    <comp ref="Vout_F1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3120e91-54b9-47ae-a144-6dd9caadb1b1</tstamps>
+    </comp>
+    <comp ref="Vout_Load1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Keystone_5019_Minature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adc4ce10-5728-4ec3-a06e-012f0b02fbe5</tstamps>
     </comp>
   </components>
   <libparts>
@@ -935,6 +1166,23 @@
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
         <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Pin">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Connector" part="Conn_01x28_Socket">
@@ -1121,6 +1369,21 @@
         <pin num="14" name="VCCB" type="power_in"/>
       </pins>
     </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
     <libpart lib="NCP705MTADJTCG" part="NCP705MTADJTCG">
       <fields>
         <field name="Reference">U</field>
@@ -1135,15 +1398,15 @@
         <pin num="7" name="GND" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Switch" part="SW_DIP_x06">
-      <description>6x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
+    <libpart lib="Switch" part="SW_DIP_x07">
+      <description>7x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
       <docs>~</docs>
       <footprints>
-        <fp>SW?DIP?x6*</fp>
+        <fp>SW?DIP?x7*</fp>
       </footprints>
       <fields>
         <field name="Reference">SW</field>
-        <field name="Value">SW_DIP_x06</field>
+        <field name="Value">SW_DIP_x07</field>
         <field name="Datasheet">~</field>
       </fields>
       <pins>
@@ -1159,6 +1422,8 @@
         <pin num="10" name="" type="passive"/>
         <pin num="11" name="" type="passive"/>
         <pin num="12" name="" type="passive"/>
+        <pin num="13" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
       </pins>
     </libpart>
   </libparts>
@@ -1178,8 +1443,11 @@
     <library logical="Logic_LevelTranslator">
       <uri>E:\7.0\share\kicad\symbols\/Logic_LevelTranslator.kicad_sym</uri>
     </library>
+    <library logical="Mechanical">
+      <uri>E:\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
     <library logical="NCP705MTADJTCG">
-      <uri>E:\3LFCC\TestBoardV113/Libraries/NCP705MTADJTCG.kicad_sym</uri>
+      <uri>E:\GitHub\caravel-dev-V5-M.2-3lfcc-shield\TestBoardV113/Libraries/NCP705MTADJTCG.kicad_sym</uri>
     </library>
     <library logical="Switch">
       <uri>E:\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
@@ -1196,8 +1464,8 @@
       <node ref="U6" pin="8" pinfunction="OE" pintype="input"/>
     </net>
     <net code="2" name="1.8_Ev_Board">
-      <node ref="J19" pin="22" pinfunction="Pin_22" pintype="passive"/>
-      <node ref="J19" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="J21" pin="22" pinfunction="Pin_22" pintype="passive"/>
+      <node ref="J21" pin="23" pinfunction="Pin_23" pintype="passive"/>
     </net>
     <net code="3" name="3.3V FPGA">
       <node ref="C15" pin="2" pintype="passive"/>
@@ -1208,8 +1476,9 @@
       <node ref="U6" pin="14" pinfunction="VCCB" pintype="power_in"/>
     </net>
     <net code="4" name="3.3_EV_Board">
-      <node ref="J19" pin="26" pinfunction="Pin_26" pintype="passive"/>
-      <node ref="J19" pin="27" pinfunction="Pin_27" pintype="passive"/>
+      <node ref="J21" pin="26" pinfunction="Pin_26" pintype="passive"/>
+      <node ref="J21" pin="27" pinfunction="Pin_27" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
     </net>
     <net code="5" name="D1">
       <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
@@ -1260,28 +1529,41 @@
       <node ref="C9" pin="1" pintype="passive"/>
       <node ref="GND_TP1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="GND_TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
       <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J12" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J14" pin="28" pinfunction="Pin_28" pintype="passive"/>
-      <node ref="J14" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J19" pin="17" pinfunction="Pin_17" pintype="passive"/>
-      <node ref="J19" pin="18" pinfunction="Pin_18" pintype="passive"/>
-      <node ref="J19" pin="28" pinfunction="Pin_28" pintype="passive"/>
+      <node ref="J13" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J14" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J16" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J18" pin="28" pinfunction="Pin_28" pintype="passive"/>
+      <node ref="J18" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="J22" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="J23" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J21" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J21" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="J21" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J21" pin="28" pinfunction="Pin_28" pintype="passive"/>
+      <node ref="J26" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J27" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
-      <node ref="R11" pin="2" pintype="passive"/>
       <node ref="R12" pin="2" pintype="passive"/>
       <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
-      <node ref="R5" pin="2" pintype="passive"/>
-      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
       <node ref="R8" pin="2" pintype="passive"/>
-      <node ref="R9" pin="2" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="7" pinfunction="GND" pintype="passive"/>
       <node ref="U2" pin="3" pinfunction="GND" pintype="passive"/>
@@ -1293,27 +1575,31 @@
       <node ref="U6" pin="7" pinfunction="GND" pintype="power_in"/>
     </net>
     <net code="14" name="Load conection +">
-      <node ref="J21" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J22" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J22" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J25" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J27" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J27" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="SW1" pin="10" pintype="passive"/>
       <node ref="SW1" pin="11" pintype="passive"/>
       <node ref="SW1" pin="12" pintype="passive"/>
-      <node ref="SW1" pin="7" pintype="passive"/>
+      <node ref="SW1" pin="13" pintype="passive"/>
+      <node ref="SW1" pin="14" pintype="passive"/>
       <node ref="SW1" pin="8" pintype="passive"/>
       <node ref="SW1" pin="9" pintype="passive"/>
-      <node ref="TP12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Vout_Load1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="15" name="Net-(J3-Pin_1)">
       <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
       <node ref="U1" pin="4" pinfunction="EN" pintype="input"/>
     </net>
     <net code="16" name="Net-(J4-Pin_1)">
       <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
       <node ref="U2" pin="4" pinfunction="EN" pintype="input"/>
     </net>
     <net code="17" name="Net-(J5-Pin_1)">
       <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
       <node ref="U3" pin="4" pinfunction="EN" pintype="input"/>
     </net>
     <net code="18" name="Net-(J6-Pin_1)">
@@ -1325,25 +1611,25 @@
       <node ref="R1" pin="1" pintype="passive"/>
     </net>
     <net code="20" name="Net-(J7-Pin_1)">
-      <node ref="C10" pin="1" pintype="passive"/>
-      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
       <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="R2" pin="1" pintype="passive"/>
-      <node ref="U1" pin="1" pinfunction="OUT" pintype="power_out"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="OUT" pintype="power_out"/>
     </net>
     <net code="21" name="Net-(J8-Pin_1)">
       <node ref="C11" pin="1" pintype="passive"/>
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
       <node ref="U2" pin="1" pinfunction="OUT" pintype="power_out"/>
     </net>
     <net code="22" name="Net-(J9-Pin_1)">
-      <node ref="C12" pin="1" pintype="passive"/>
-      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
       <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="R6" pin="1" pintype="passive"/>
-      <node ref="U3" pin="1" pinfunction="OUT" pintype="power_out"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="OUT" pintype="power_out"/>
     </net>
     <net code="23" name="Net-(J10-Pin_1)">
       <node ref="C13" pin="1" pintype="passive"/>
@@ -1352,73 +1638,91 @@
     </net>
     <net code="24" name="Net-(J11-Pin_1)">
       <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J13" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J12-Pin_1)">
       <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J12" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J14" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(J15-Pin_1)">
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J16" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J16" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="25" name="Net-(J17-Pin_1)">
+    <net code="27" name="Net-(J22-Pin_1)">
       <node ref="C17" pin="1" pintype="passive"/>
-      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J21" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J22" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J22" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J22" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J24" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J25" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J27" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J27" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J27" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Vout_F1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="26" name="Net-(J17-Pin_2)">
-      <node ref="J17" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    <net code="28" name="Net-(J22-Pin_2)">
+      <node ref="J22" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="27" name="Net-(R8-Pad1)">
-      <node ref="R8" pin="1" pintype="passive"/>
+    <net code="29" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1" pintype="passive"/>
       <node ref="SW1" pin="1" pintype="passive"/>
     </net>
-    <net code="28" name="Net-(R9-Pad1)">
-      <node ref="R9" pin="1" pintype="passive"/>
+    <net code="30" name="Net-(R13-Pad1)">
+      <node ref="R13" pin="1" pintype="passive"/>
       <node ref="SW1" pin="2" pintype="passive"/>
     </net>
-    <net code="29" name="Net-(R10-Pad1)">
-      <node ref="R10" pin="1" pintype="passive"/>
+    <net code="31" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1" pintype="passive"/>
       <node ref="SW1" pin="3" pintype="passive"/>
     </net>
-    <net code="30" name="Net-(R11-Pad1)">
-      <node ref="R11" pin="1" pintype="passive"/>
+    <net code="32" name="Net-(R15-Pad1)">
+      <node ref="R15" pin="1" pintype="passive"/>
       <node ref="SW1" pin="4" pintype="passive"/>
     </net>
-    <net code="31" name="Net-(R12-Pad1)">
-      <node ref="R12" pin="1" pintype="passive"/>
+    <net code="33" name="Net-(R16-Pad1)">
+      <node ref="R16" pin="1" pintype="passive"/>
       <node ref="SW1" pin="5" pintype="passive"/>
     </net>
-    <net code="32" name="Net-(R13-Pad1)">
-      <node ref="R13" pin="1" pintype="passive"/>
+    <net code="34" name="Net-(R17-Pad1)">
+      <node ref="R17" pin="1" pintype="passive"/>
       <node ref="SW1" pin="6" pintype="passive"/>
     </net>
-    <net code="33" name="Net-(U1-ADJ)">
+    <net code="35" name="Net-(R18-Pad1)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="7" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(U1-ADJ)">
       <node ref="C5" pin="2" pintype="passive"/>
-      <node ref="R2" pin="2" pintype="passive"/>
-      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="ADJ" pintype="input"/>
     </net>
-    <net code="34" name="Net-(U2-ADJ)">
+    <net code="37" name="Net-(U2-ADJ)">
       <node ref="C6" pin="2" pintype="passive"/>
-      <node ref="R4" pin="2" pintype="passive"/>
-      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
       <node ref="U2" pin="2" pinfunction="ADJ" pintype="input"/>
     </net>
-    <net code="35" name="Net-(U3-ADJ)">
+    <net code="38" name="Net-(U3-ADJ)">
       <node ref="C7" pin="2" pintype="passive"/>
-      <node ref="R6" pin="2" pintype="passive"/>
-      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
       <node ref="U3" pin="2" pinfunction="ADJ" pintype="input"/>
     </net>
-    <net code="36" name="Net-(U4-Noise)">
+    <net code="39" name="Net-(U4-Noise)">
       <node ref="C8" pin="1" pintype="passive"/>
       <node ref="U4" pin="3" pinfunction="Noise" pintype="passive"/>
     </net>
-    <net code="37" name="VCC">
+    <net code="40" name="VCC">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="C3" pin="1" pintype="passive"/>
@@ -1433,190 +1737,203 @@
       <node ref="U3" pin="6" pinfunction="IN" pintype="power_in"/>
       <node ref="U4" pin="5" pinfunction="VIN" pintype="power_in"/>
     </net>
-    <net code="38" name="gpio">
-      <node ref="J19" pin="20" pinfunction="Pin_20" pintype="passive"/>
+    <net code="41" name="gpio">
+      <node ref="J21" pin="20" pinfunction="Pin_20" pintype="passive"/>
     </net>
-    <net code="39" name="mprj_io[0]">
-      <node ref="J19" pin="15" pinfunction="Pin_15" pintype="passive"/>
+    <net code="42" name="mprj_io[0]">
+      <node ref="J21" pin="15" pinfunction="Pin_15" pintype="passive"/>
     </net>
-    <net code="40" name="mprj_io[1]_SDO">
-      <node ref="J19" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    <net code="43" name="mprj_io[1]_SDO">
+      <node ref="J21" pin="14" pinfunction="Pin_14" pintype="passive"/>
     </net>
-    <net code="41" name="mprj_io[2]_SDI">
-      <node ref="J19" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    <net code="44" name="mprj_io[2]_SDI">
+      <node ref="J21" pin="13" pinfunction="Pin_13" pintype="passive"/>
     </net>
-    <net code="42" name="mprj_io[3]_CSB">
-      <node ref="J19" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    <net code="45" name="mprj_io[3]_CSB">
+      <node ref="J21" pin="12" pinfunction="Pin_12" pintype="passive"/>
     </net>
-    <net code="43" name="mprj_io[4]_SCK">
-      <node ref="J19" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    <net code="46" name="mprj_io[4]_SCK">
+      <node ref="J21" pin="11" pinfunction="Pin_11" pintype="passive"/>
     </net>
-    <net code="44" name="mprj_io[5]_ser_rx">
-      <node ref="J19" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    <net code="47" name="mprj_io[5]_ser_rx">
+      <node ref="J21" pin="10" pinfunction="Pin_10" pintype="passive"/>
     </net>
-    <net code="45" name="mprj_io[6]_ser_tx">
-      <node ref="J19" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    <net code="48" name="mprj_io[6]_ser_tx">
+      <node ref="J21" pin="9" pinfunction="Pin_9" pintype="passive"/>
     </net>
-    <net code="46" name="mprj_io[7]">
-      <node ref="J19" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    <net code="49" name="mprj_io[7]">
+      <node ref="J21" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="TP_D5" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U6" pin="2" pinfunction="A1" pintype="bidirectional"/>
     </net>
-    <net code="47" name="mprj_io[8]">
-      <node ref="J19" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    <net code="50" name="mprj_io[8]">
+      <node ref="J21" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="TP_D6" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U6" pin="3" pinfunction="A2" pintype="bidirectional"/>
     </net>
-    <net code="48" name="mprj_io[9]">
-      <node ref="J19" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    <net code="51" name="mprj_io[9]">
+      <node ref="J21" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="TP_D7" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U6" pin="4" pinfunction="A3" pintype="bidirectional"/>
     </net>
-    <net code="49" name="mprj_io[10]">
-      <node ref="J19" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    <net code="52" name="mprj_io[10]">
+      <node ref="J21" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="TP_D8" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U6" pin="5" pinfunction="A4" pintype="bidirectional"/>
     </net>
-    <net code="50" name="mprj_io[11]">
-      <node ref="J19" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    <net code="53" name="mprj_io[11]">
+      <node ref="J21" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="51" name="mprj_io[12]">
-      <node ref="J19" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
+    <net code="54" name="mprj_io[12]">
+      <node ref="FC2_D-1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J21" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="52" name="mprj_io[13]">
-      <node ref="J19" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="TP11" pin="1" pinfunction="1" pintype="passive"/>
+    <net code="55" name="mprj_io[13]">
+      <node ref="FC2_D+1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J21" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="53" name="mprj_io[14]">
-      <node ref="J14" pin="27" pinfunction="Pin_27" pintype="passive"/>
-      <node ref="J24" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+    <net code="56" name="mprj_io[14]">
+      <node ref="FC2_A-1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J18" pin="27" pinfunction="Pin_27" pintype="passive"/>
+      <node ref="J28" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="54" name="mprj_io[15]">
-      <node ref="J14" pin="26" pinfunction="Pin_26" pintype="passive"/>
-      <node ref="J24" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+    <net code="57" name="mprj_io[15]">
+      <node ref="FC2_A+1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J18" pin="26" pinfunction="Pin_26" pintype="passive"/>
+      <node ref="J28" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="55" name="mprj_io[16]">
+    <net code="58" name="mprj_io[16]">
       <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J12" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J12" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="J14" pin="19" pinfunction="Pin_19" pintype="passive"/>
-      <node ref="J14" pin="20" pinfunction="Pin_20" pintype="passive"/>
-      <node ref="J14" pin="24" pinfunction="Pin_24" pintype="passive"/>
-      <node ref="J14" pin="25" pinfunction="Pin_25" pintype="passive"/>
+      <node ref="J13" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J13" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J18" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="J18" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="J18" pin="24" pinfunction="Pin_24" pintype="passive"/>
+      <node ref="J18" pin="25" pinfunction="Pin_25" pintype="passive"/>
     </net>
-    <net code="56" name="mprj_io[18]">
-      <node ref="J14" pin="23" pinfunction="Pin_23" pintype="passive"/>
-      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    <net code="59" name="mprj_io[18]">
+      <node ref="J18" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Vout2_NF1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="57" name="mprj_io[19]">
-      <node ref="J14" pin="22" pinfunction="Pin_22" pintype="passive"/>
+    <net code="60" name="mprj_io[19]">
+      <node ref="J18" pin="22" pinfunction="Pin_22" pintype="passive"/>
     </net>
-    <net code="58" name="mprj_io[20]">
-      <node ref="J14" pin="21" pinfunction="Pin_21" pintype="passive"/>
-      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    <net code="61" name="mprj_io[20]">
+      <node ref="J18" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Vout1_NF1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="59" name="mprj_io[23]">
-      <node ref="J14" pin="18" pinfunction="Pin_18" pintype="passive"/>
-      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+    <net code="62" name="mprj_io[23]">
+      <node ref="FC1_A+1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J18" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J23" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="60" name="mprj_io[24]">
-      <node ref="J14" pin="17" pinfunction="Pin_17" pintype="passive"/>
-      <node ref="J18" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+    <net code="63" name="mprj_io[24]">
+      <node ref="FC1_A-1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J18" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="J23" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="61" name="mprj_io[25]">
-      <node ref="J14" pin="16" pinfunction="Pin_16" pintype="passive"/>
-      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+    <net code="64" name="mprj_io[25]">
+      <node ref="FC1_D+1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J18" pin="16" pinfunction="Pin_16" pintype="passive"/>
     </net>
-    <net code="62" name="mprj_io[26]">
-      <node ref="J14" pin="15" pinfunction="Pin_15" pintype="passive"/>
+    <net code="65" name="mprj_io[26]">
+      <node ref="J18" pin="15" pinfunction="Pin_15" pintype="passive"/>
     </net>
-    <net code="63" name="mprj_io[27]">
-      <node ref="J14" pin="14" pinfunction="Pin_14" pintype="passive"/>
-      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+    <net code="66" name="mprj_io[27]">
+      <node ref="FC1_D-1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J18" pin="14" pinfunction="Pin_14" pintype="passive"/>
     </net>
-    <net code="64" name="mprj_io[28]">
-      <node ref="J14" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    <net code="67" name="mprj_io[28]">
+      <node ref="J18" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="TP_D4" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U5" pin="5" pinfunction="A4" pintype="bidirectional"/>
     </net>
-    <net code="65" name="mprj_io[29]">
-      <node ref="J14" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    <net code="68" name="mprj_io[29]">
+      <node ref="J18" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="TP_D3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U5" pin="4" pinfunction="A3" pintype="bidirectional"/>
     </net>
-    <net code="66" name="mprj_io[30]">
-      <node ref="J14" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    <net code="69" name="mprj_io[30]">
+      <node ref="J18" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="TP_D2" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U5" pin="3" pinfunction="A2" pintype="bidirectional"/>
     </net>
-    <net code="67" name="mprj_io[31]">
-      <node ref="J14" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    <net code="70" name="mprj_io[31]">
+      <node ref="J18" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="TP_D1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U5" pin="2" pinfunction="A1" pintype="bidirectional"/>
     </net>
-    <net code="68" name="mprj_io[32]">
-      <node ref="J14" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    <net code="71" name="mprj_io[32]">
+      <node ref="J18" pin="9" pinfunction="Pin_9" pintype="passive"/>
     </net>
-    <net code="69" name="mprj_io[33]">
-      <node ref="J14" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    <net code="72" name="mprj_io[33]">
+      <node ref="J18" pin="8" pinfunction="Pin_8" pintype="passive"/>
     </net>
-    <net code="70" name="mprj_io[34]">
-      <node ref="J14" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    <net code="73" name="mprj_io[34]">
+      <node ref="J18" pin="4" pinfunction="Pin_4" pintype="passive"/>
     </net>
-    <net code="71" name="mprj_io[35]">
-      <node ref="J14" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    <net code="74" name="mprj_io[35]">
+      <node ref="J18" pin="3" pinfunction="Pin_3" pintype="passive"/>
     </net>
-    <net code="72" name="mprj_io[36]">
-      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    <net code="75" name="mprj_io[36]">
+      <node ref="J18" pin="2" pinfunction="Pin_2" pintype="passive"/>
     </net>
-    <net code="73" name="mprj_io[37]">
-      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    <net code="76" name="mprj_io[37]">
+      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="74" name="unconnected-(U1-N{slash}C-Pad5)">
+    <net code="77" name="unconnected-(U1-N{slash}C-Pad5)">
       <node ref="U1" pin="5" pinfunction="N/C" pintype="no_connect"/>
     </net>
-    <net code="75" name="unconnected-(U2-N{slash}C-Pad5)">
+    <net code="78" name="unconnected-(U2-N{slash}C-Pad5)">
       <node ref="U2" pin="5" pinfunction="N/C" pintype="no_connect"/>
     </net>
-    <net code="76" name="unconnected-(U3-N{slash}C-Pad5)">
+    <net code="79" name="unconnected-(U3-N{slash}C-Pad5)">
       <node ref="U3" pin="5" pinfunction="N/C" pintype="no_connect"/>
     </net>
-    <net code="77" name="unconnected-(U5-NC-Pad6)">
+    <net code="80" name="unconnected-(U5-NC-Pad6)">
       <node ref="U5" pin="6" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="78" name="unconnected-(U5-NC-Pad9)">
+    <net code="81" name="unconnected-(U5-NC-Pad9)">
       <node ref="U5" pin="9" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="79" name="unconnected-(U6-NC-Pad6)">
+    <net code="82" name="unconnected-(U6-NC-Pad6)">
       <node ref="U6" pin="6" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="80" name="unconnected-(U6-NC-Pad9)">
+    <net code="83" name="unconnected-(U6-NC-Pad9)">
       <node ref="U6" pin="9" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="81" name="vccd1">
-      <node ref="J19" pin="24" pinfunction="Pin_24" pintype="passive"/>
+    <net code="84" name="vccd1">
+      <node ref="J21" pin="24" pinfunction="Pin_24" pintype="passive"/>
     </net>
-    <net code="82" name="vccd2">
-      <node ref="J19" pin="21" pinfunction="Pin_21" pintype="passive"/>
+    <net code="85" name="vccd2">
+      <node ref="J21" pin="21" pinfunction="Pin_21" pintype="passive"/>
     </net>
-    <net code="83" name="vdda1">
-      <node ref="J19" pin="16" pinfunction="Pin_16" pintype="passive"/>
-      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    <net code="86" name="vdda1">
+      <node ref="J15" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J16" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J16" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J21" pin="16" pinfunction="Pin_16" pintype="passive"/>
     </net>
-    <net code="84" name="vdda2">
-      <node ref="J19" pin="25" pinfunction="Pin_25" pintype="passive"/>
-      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    <net code="87" name="vdda2">
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J14" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J14" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J21" pin="25" pinfunction="Pin_25" pintype="passive"/>
     </net>
-    <net code="85" name="vddio">
-      <node ref="J14" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    <net code="88" name="vddio">
+      <node ref="J18" pin="7" pinfunction="Pin_7" pintype="passive"/>
     </net>
-    <net code="86" name="xclk">
-      <node ref="J19" pin="19" pinfunction="Pin_19" pintype="passive"/>
+    <net code="89" name="xclk">
+      <node ref="J21" pin="19" pinfunction="Pin_19" pintype="passive"/>
     </net>
-    <net code="87" name="~{RST}">
-      <node ref="J14" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="J23" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    <net code="90" name="~{RST}">
+      <node ref="J18" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J26" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
     </net>
   </nets>
 </export>
