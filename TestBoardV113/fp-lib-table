@@ -5,4 +5,5 @@
   (lib (name "MicroMod-Sparkfun")(type "KiCad")(uri "C:/Users/chocl/Documents/Efabless_Docs/footprints/MicroMod-Sparkfun.pretty")(options "")(descr ""))
   (lib (name "strive_foot_prints")(type "KiCad")(uri "C:/Users/chocl/Documents/Efabless_Docs/footprints/strive_foot_prints.pretty")(options "")(descr ""))
   (lib (name "AC3E")(type "KiCad")(uri "C:/Users/chocl/Desktop/Diseño PCB y Equipos Electrónicos/AC3E.pretty")(options "")(descr ""))
+  (lib (name "My_Library")(type "KiCad")(uri "${KIPRJMOD}/My_Library.pretty")(options "")(descr ""))
 )
