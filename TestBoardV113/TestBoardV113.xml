@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>E:\GitHub\caravel-dev-V5-M.2-3lfcc-shield\TestBoardV113\TestBoardV113.kicad_sch</source>
-    <date>31/01/2024 17:29:57</date>
+    <date>31/01/2024 17:57:47</date>
     <tool>Eeschema 7.0.10</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -672,6 +672,28 @@
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>94903127-0555-4176-b676-ae84cce5256e</tstamps>
+    </comp>
+    <comp ref="J29">
+      <value>Conn_01x01_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6312bf4a-0bad-4e2a-9c50-568256303e09</tstamps>
+    </comp>
+    <comp ref="J30">
+      <value>Conn_01x01_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TestBoardV113.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05d0d1dd-c47f-4c14-8f5b-5114b6a58d43</tstamps>
     </comp>
     <comp ref="L1">
       <value>47u</value>
@@ -1548,6 +1570,7 @@
       <node ref="J21" pin="28" pinfunction="Pin_28" pintype="passive"/>
       <node ref="J26" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J27" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J30" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
@@ -1578,6 +1601,7 @@
       <node ref="J25" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J27" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J27" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J29" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="SW1" pin="10" pintype="passive"/>
       <node ref="SW1" pin="11" pintype="passive"/>
       <node ref="SW1" pin="12" pintype="passive"/>
